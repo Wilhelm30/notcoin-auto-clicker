@@ -1,0 +1,1 @@
+# notcoin-auto-clicker
